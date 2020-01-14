@@ -2,7 +2,7 @@
 It is my experiment for operating system
 Simulate 5 algorithms for operating system
 + 1) processor management: round robin 
-<img src = "\imgs\1\1.png"></img>
+<img src = "/imgs/1/1.png"></img>
 + 2) memory management: variable partition
 + 3) disk management: bitmap
 + 4) linux multi-processor
